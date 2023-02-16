@@ -19,6 +19,7 @@
    </form>
     
     <?php
+    $periodo1 = $_GET['']
      echo "ola mundo";
 
     ?>
